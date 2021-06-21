@@ -42,5 +42,5 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: {{ YOUR_DOCKERHUB_REPOSITORY }}/python-helloworld:latest
+          tags: tijani0826/python-helloworld:latest
 The Docker build and push workflow can be found in course repository.
