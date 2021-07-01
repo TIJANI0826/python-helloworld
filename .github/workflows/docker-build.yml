@@ -42,4 +42,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: tijani0826/python-helloworld:latest
+          tags: tijani0826/python-helloworld:v1.0.0
